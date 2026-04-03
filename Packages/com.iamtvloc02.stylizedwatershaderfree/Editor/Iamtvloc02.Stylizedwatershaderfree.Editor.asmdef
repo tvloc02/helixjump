@@ -1,0 +1,10 @@
+{
+    "name": "Iamtvloc02.Stylizedwatershaderfree.Editor",
+    "references": [
+      "Iamtvloc02.Stylizedwatershaderfree"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

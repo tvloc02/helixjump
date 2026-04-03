@@ -1,0 +1,14 @@
+{
+    "name": "Iamtvloc02.Stylizedwatershaderfree.Editor.Tests",
+    "references": [
+        "Iamtvloc02.Stylizedwatershaderfree.Editor",
+        "Iamtvloc02.Stylizedwatershaderfree"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
