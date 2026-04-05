@@ -313,7 +313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameLoader
   loadingBarFill: {fileID: 334921035}
-  sceneToLoad: Scenes/Main
+  sceneToLoad: Scenes/Home
   minLoadTime: 3
 --- !u!1 &1173491026
 GameObject:
